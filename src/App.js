@@ -23,9 +23,6 @@ class App extends Component {
               return {
                 name: {firstName: "Uljulul", lastName:"Kumar"}
               }
-            },
-            ()=>{
-              //Acknowlegment for state update.
             });}
           }>Change Name</button>
         </header>
